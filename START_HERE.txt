@@ -1,0 +1,26 @@
+AURA V2 — START HERE
+=====================
+
+1. Extract this project.
+2. Open the `aura` folder in VS Code.
+3. Open Terminal in that folder.
+4. Run:
+
+   npm install
+   npm run dev
+
+5. Open the localhost URL shown by Vite.
+
+For GitHub:
+- Read docs/GITHUB_SETUP.md
+
+For deployment:
+- Read docs/DEPLOYMENT.md
+
+For privacy/security:
+- Read docs/PRIVACY.md
+- Read SECURITY.md
+
+Important:
+This is a front-end demo. Do not use real passwords or sensitive personal data.
+The localStorage authentication must be replaced before a real client launch.
